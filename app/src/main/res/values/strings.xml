@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloGradleKotlin</string>
+    <string name="hint_name">Name</string>
+    <string name="placeholder_name">John Doe</string>
+    <string name="btn_greet">Greet Me!</string>
+    <string name="error_blank_name">Name cannot be empty</string>
+</resources>
